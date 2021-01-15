@@ -4,7 +4,7 @@ import java.util.List;
 
 import com.leporonitech.mongodbemployees.model.Employee;
 
-public interface FuncionarioService {
+public interface EmployeeService {
 	
 	public List<Employee> listAll();
 	
